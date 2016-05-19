@@ -1,0 +1,22 @@
+{
+  "name": "miscellaneous-js",
+  "version": "0.0.1",
+  "description": "We miscellaneous summary of the function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamayamasan/miscellaneous-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamayamasan/miscellaneous-js/issues"
+  },
+  "homepage": "https://github.com/yamayamasan/miscellaneous-js#readme",
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
